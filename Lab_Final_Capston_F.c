@@ -147,6 +147,8 @@ int main()
                recursion();
                break;
             }
+        default:
+            break;
 
 
         }
